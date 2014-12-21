@@ -1,0 +1,30 @@
+{
+  "name": "bower demo",
+  "version": "0.9",
+  "main": "public/index.php",
+  "authors": [
+    "Kamal Lamichhane <lckamal@hotmail.com>"
+  ],
+  "description": "this test for frontend env",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "bower",
+    "gulp",
+    "bootstrap",
+    "font-awesome"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass-official": "~3.3.1",
+    "fontawesome": "~4.2.0"
+  }
+}
